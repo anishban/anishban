@@ -49,6 +49,7 @@ Distributed systems, secure code execution, cloud infrastructure, cybersecurity,
 ### SecureJudge
 
 A secure distributed job runner and online judge-style backend system designed to validate, queue, execute, and track submitted code jobs.
+Personal Project - Developer
 
 **Key features:**
 
@@ -69,6 +70,7 @@ A secure distributed job runner and online judge-style backend system designed t
 ### DormMart
 
 A student-focused marketplace web application built to support buying and selling within a university community.
+University Capstone Group Project - Developer
 
 **Key features:**
 
@@ -78,6 +80,7 @@ A student-focused marketplace web application built to support buying and sellin
 * Purchase history
 * Backend API integration
 * Database-backed user and listing data
+* Agile
 
 **Tech stack:** React, Tailwind CSS, PHP, MySQL, Apache
 
@@ -88,6 +91,7 @@ A student-focused marketplace web application built to support buying and sellin
 ### Cohort
 
 A software project focused on organizing, managing, or analyzing grouped user or student-related data through a structured application workflow.
+University Capstone Group Project - Project Manager
 
 **Key features:**
 
@@ -95,6 +99,7 @@ A software project focused on organizing, managing, or analyzing grouped user or
 * Application-level organization of user or cohort information
 * Backend-driven workflows
 * Repository-based project development
+* Agile
 
 **Repository:** [Cohort](https://github.com/anishban/s26-cohort)
 ---
@@ -102,13 +107,14 @@ A software project focused on organizing, managing, or analyzing grouped user or
 ### GradeA1
 
 An academic or grading-focused software project designed around structured evaluation, score handling, or course-related workflows.
-
+University Capstone Group Project - Project Manager
 **Key features:**
 
 * Grade or evaluation-oriented functionality
 * Structured input and output handling
 * Application logic for academic workflows
 * Repository-based software development
+* Agile
 
 **Repository:** [GradeA1](https://github.com/anishban/s26-GradeA1)
 
@@ -117,6 +123,7 @@ An academic or grading-focused software project designed around structured evalu
 ### Human Prediction System
 
 A machine learning or data-driven prediction project focused on analyzing human-related data and generating predictive outputs.
+University Research Group Project - Researcher & Developer
 
 **Key features:**
 
@@ -132,6 +139,7 @@ A machine learning or data-driven prediction project focused on analyzing human-
 ### CSE 312 Final Project: Among Us
 
 A multiplayer browser-based game inspired by Among Us, built as a real-time web application for a web development course project.
+University Group Project for CSE 312 - Developer
 
 **Key features:**
 
