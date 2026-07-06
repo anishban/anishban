@@ -81,7 +81,7 @@ A student-focused marketplace web application built to support buying and sellin
 
 **Tech stack:** React, Tailwind CSS, PHP, MySQL, Apache
 
-**Repository:** [DormMart](https://github.com/anishban/DormMart)
+**Repository:** [DormMart](https://github.com/anishban/Dorm-Mart)
 
 ---
 
@@ -96,8 +96,7 @@ A software project focused on organizing, managing, or analyzing grouped user or
 * Backend-driven workflows
 * Repository-based project development
 
-**Repository:** [Cohort](https://github.com/anishban/Cohort)
-
+**Repository:** [Cohort](https://github.com/anishban/s26-cohort)
 ---
 
 ### GradeA1
@@ -111,7 +110,7 @@ An academic or grading-focused software project designed around structured evalu
 * Application logic for academic workflows
 * Repository-based software development
 
-**Repository:** [GradeA1](https://github.com/anishban/GradeA1)
+**Repository:** [GradeA1](https://github.com/anishban/s26-GradeA1)
 
 ---
 
@@ -144,7 +143,7 @@ A multiplayer browser-based game inspired by Among Us, built as a real-time web 
 
 **Tech stack:** Flask, Socket.IO, JavaScript, HTML, CSS
 
-**Repository:** [CSE 312 Final Project](https://github.com/anishban/CSE-312-Final-Project)
+**Repository:** [CSE 312 Final Project](https://github.com/anishban/dQw4w9WgXcQ)
 
 ---
 
@@ -163,7 +162,7 @@ A web-based chat application with authentication, session handling, and real-tim
 
 **Tech stack:** Python, JavaScript, WebSockets, OAuth, HTML, CSS
 
-**Repository:** [CSE 312 Chat Server](https://github.com/anishban/CSE-312-Chat-Server)
+**Repository:** [CSE 312 Chat Server](https://github.com/anishban/CSE312-SERVER)
 
 ---
 
