@@ -55,7 +55,7 @@ Backend Architecture · Distributed Systems · Cybersecurity · Cloud Infrastruc
 
 <div align="center">
 
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishban&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishban&layout=compact&hide_border=true&theme=tokyonight)
+![Anish's GitHub Stats](https://github-stats-extended.vercel.app/api?username=anishban&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=anishban&layout=compact&hide_border=true&theme=tokyonight)
 
 </div>
